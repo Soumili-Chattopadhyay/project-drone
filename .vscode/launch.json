@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "project_drone",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "project_drone (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "project_drone (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_control_pad-develop",
+            "cwd": "plugins\\flutter_control_pad-develop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_control_pad-develop (profile mode)",
+            "cwd": "plugins\\flutter_control_pad-develop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_control_pad-develop (release mode)",
+            "cwd": "plugins\\flutter_control_pad-develop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
